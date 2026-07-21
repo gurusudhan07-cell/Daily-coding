@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0169-majority-element) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
