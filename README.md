@@ -53,6 +53,11 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
