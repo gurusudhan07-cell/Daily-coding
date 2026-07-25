@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0349-intersection-of-two-arrays) |
+| [1189-maximum-number-of-balloons](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0169-majority-element) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1189-maximum-number-of-balloons](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0125-valid-palindrome) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1189-maximum-number-of-balloons](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
 | ------- |
