@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0136-single-number) |
@@ -78,6 +79,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0283-move-zeroes) |
@@ -91,6 +93,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0011-container-with-most-water) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Dynamic Programming
 |  |
