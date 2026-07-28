@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0268-missing-number) |
@@ -64,6 +65,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0405-convert-a-number-to-hexadecimal) |
