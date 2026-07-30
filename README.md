@@ -59,6 +59,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1323-maximum-69-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3783-mirror-distance-of-an-integer](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/3783-mirror-distance-of-an-integer) |
 ## Prefix Sum
 |  |
 | ------- |
