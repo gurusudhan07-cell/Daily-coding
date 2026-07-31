@@ -56,6 +56,7 @@
 | [0231-power-of-two](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0507-perfect-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1323-maximum-69-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/3432-count-partitions-with-even-sum-difference) |
