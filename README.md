@@ -20,6 +20,7 @@
 | [0414-third-maximum-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0575-distribute-candies) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0976-largest-perimeter-triangle](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/2574-left-and-right-sum-differences) |
@@ -50,6 +51,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0414-third-maximum-number) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0976-largest-perimeter-triangle](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0976-largest-perimeter-triangle) |
 ## Counting
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0509-fibonacci-number) |
+| [0976-largest-perimeter-triangle](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1323-maximum-69-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -113,6 +116,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0011-container-with-most-water) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0976-largest-perimeter-triangle](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1323-maximum-69-number) |
 ## Dynamic Programming
 |  |
