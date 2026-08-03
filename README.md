@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0136-single-number) |
@@ -38,6 +39,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0191-number-of-1-bits) |
@@ -124,6 +126,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0509-fibonacci-number) |
