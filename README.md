@@ -34,6 +34,7 @@
 | [0217-contains-duplicate](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0575-distribute-candies) |
 | [1189-maximum-number-of-balloons](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1189-maximum-number-of-balloons) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1189-maximum-number-of-balloons](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1189-maximum-number-of-balloons) |
