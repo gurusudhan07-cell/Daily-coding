@@ -74,6 +74,7 @@
 | [0507-perfect-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0976-largest-perimeter-triangle) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1323-maximum-69-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/3432-count-partitions-with-even-sum-difference) |
