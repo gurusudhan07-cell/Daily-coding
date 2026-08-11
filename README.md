@@ -72,6 +72,7 @@
 | [0268-missing-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0504-base-7](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0976-largest-perimeter-triangle) |
@@ -124,6 +125,7 @@
 | [0344-reverse-string](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0504-base-7](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0504-base-7) |
 | [0806-number-of-lines-to-write-string](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0806-number-of-lines-to-write-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
