@@ -127,6 +127,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0504-base-7) |
 | [0806-number-of-lines-to-write-string](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0806-number-of-lines-to-write-string) |
+| [1108-defanging-an-ip-address](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
