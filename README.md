@@ -25,6 +25,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/3432-count-partitions-with-even-sum-difference) |
