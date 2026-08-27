@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0217-contains-duplicate) |
@@ -92,6 +93,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0367-valid-perfect-square) |
