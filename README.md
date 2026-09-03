@@ -118,6 +118,7 @@
 | [0011-container-with-most-water](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0349-intersection-of-two-arrays) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -171,4 +173,12 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0832-flipping-an-image) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
