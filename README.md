@@ -176,6 +176,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
