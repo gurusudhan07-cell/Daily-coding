@@ -23,6 +23,7 @@
 | [0414-third-maximum-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0645-set-mismatch) |
 | [0806-number-of-lines-to-write-string](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0806-number-of-lines-to-write-string) |
 | [0832-flipping-an-image](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0832-flipping-an-image) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -45,6 +46,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
@@ -64,6 +66,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0645-set-mismatch) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -117,6 +120,7 @@
 | [0260-single-number-iii](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0645-set-mismatch](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
