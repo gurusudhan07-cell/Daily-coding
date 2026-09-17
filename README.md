@@ -22,6 +22,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0806-number-of-lines-to-write-string](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0806-number-of-lines-to-write-string) |
 | [0832-flipping-an-image](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0832-flipping-an-image) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -43,6 +44,7 @@
 | [0290-word-pattern](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
@@ -61,6 +63,7 @@
 | [0268-missing-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0414-third-maximum-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -68,6 +71,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1189-maximum-number-of-balloons](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1189-maximum-number-of-balloons) |
 ## Math
@@ -169,6 +173,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0594-longest-harmonious-subsequence) |
 ## Matrix
 |  |
 | ------- |
