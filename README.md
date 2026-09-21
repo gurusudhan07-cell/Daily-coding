@@ -26,6 +26,7 @@
 | [0645-set-mismatch](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0645-set-mismatch) |
 | [0806-number-of-lines-to-write-string](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0806-number-of-lines-to-write-string) |
 | [0832-flipping-an-image](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -67,6 +68,7 @@
 | [0414-third-maximum-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -136,6 +138,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
