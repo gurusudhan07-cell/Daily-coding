@@ -26,6 +26,7 @@
 | [0645-set-mismatch](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0645-set-mismatch) |
 | [0806-number-of-lines-to-write-string](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0806-number-of-lines-to-write-string) |
 | [0832-flipping-an-image](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0922-sort-array-by-parity-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0860-lemonade-change) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1323-maximum-69-number) |
