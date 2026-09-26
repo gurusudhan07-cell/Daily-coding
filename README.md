@@ -31,6 +31,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0922-sort-array-by-parity-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0976-largest-perimeter-triangle) |
+| [1002-find-common-characters](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1002-find-common-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -50,6 +51,7 @@
 | [0575-distribute-candies](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0645-set-mismatch) |
+| [1002-find-common-characters](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
@@ -153,6 +155,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0504-base-7) |
 | [0806-number-of-lines-to-write-string](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/0806-number-of-lines-to-write-string) |
+| [1002-find-common-characters](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/gurusudhan07-cell/Daily-coding/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
